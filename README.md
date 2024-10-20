@@ -49,7 +49,6 @@ J’aime suivre des cours en ligne pour me perfectionner.
 
 # 📊 Statistiques GitHub :
 ![](https://github-readme-stats.vercel.app/api?username=ChristopheKihl&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopheKihl&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheKihl&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top contribution :
