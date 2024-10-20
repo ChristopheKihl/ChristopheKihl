@@ -21,10 +21,10 @@ J’aime suivre des cours en ligne pour me perfectionner.
 🔗 Vous pouvez également jeter un œil à mes projets ci-dessous pour découvrir ce sur quoi je travaille !
 
 
-## 🌐 Réseaux sociaux:
+## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christophe-kihl-devfullstack/)
 
-# 💻 Stack Technique:
+# 💻 Stack Technique :
 **Front-End :** 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -52,10 +52,8 @@ J’aime suivre des cours en ligne pour me perfectionner.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopheKihl&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheKihl&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top contribution :
 ![](https://github-contributor-stats.vercel.app/api?username=ChristopheKihl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChristopheKihl&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
