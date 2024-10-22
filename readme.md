@@ -44,6 +44,7 @@ Je suis toujours ouvert à de nouvelles idées et collaborations ! N'hésite pas
 <b>Versionning :</b>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 # 📊 Mes stats :
 ![](https://github-readme-stats.vercel.app/api?username=ChristopheKIHL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
